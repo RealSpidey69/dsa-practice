@@ -1,3 +1,0 @@
-git add .
-git commit -m "Day 5: problem name"
-git push
