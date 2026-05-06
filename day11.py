@@ -1,4 +1,4 @@
-#Maximum Product Subarray- Leetcode#152
+#Maximum Product Subarray-Leetcode#152
 class Solution:
     def maxProduct(self, nums):
         current_max = nums[0]
@@ -12,4 +12,4 @@ class Solution:
               current_min =new_min
               max_product=max(max_product, new_max)
         
-        return max_product
+        return max_product 
